@@ -52,8 +52,8 @@ I am eager to connect with like-minded students, mentors, or organizations worki
 
 ## 📫 Contact Me  
 
-- Email: [Ismail](muhammedismail0020@gmail.com)  
-- LinkedIn: [Ismail](www.linkedin.com/in/mhd1smail)  
-- GitHub: [Ismail](https://github.com/mhd1smail)  
+- [Email Me](mailto:muhammedismail0020@gmail.com)  
+- [LinkedIn Profile](https://www.linkedin.com/in/mhd1smail)  
+- [GitHub Profile](https://github.com/mhd1smail)  
 
 Feel free to connect or check out my projects to see how I am growing as a student and a programmer!  
