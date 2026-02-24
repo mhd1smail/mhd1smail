@@ -2,6 +2,11 @@
 BTech CSE Core @ SRM KTR | 4th Semester  
 Learning **Cybersecurity** + **DSA** from scratch — hands-on only.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhd1smail)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/mhd1smail/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:ismail.threathunt@gmail.com)
+[![SRM Email](https://img.shields.io/badge/SRM_Email-D71921?logo=gmail&logoColor=white)](mailto:ma2478@srmist.edu.in)
+
 > 🔒 All projects are for **academic & ethical learning**. No cloud dependencies. Local-only execution.
 
 ## 🎯 Current Focus (Feb 2026)
@@ -17,12 +22,33 @@ Learning **Cybersecurity** + **DSA** from scratch — hands-on only.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 ## 📂 Project Categories
-- **`[MAIN]`** → Goal-aligned (Cyber, DSA, AI) → *Coming soon*
-- **`[VIBE]`** → Early experiments (HTML, JS, mini apps) → Already public
+- **[`[MAIN]`](#main-projects)** → Goal-aligned (Cyber, DSA, AI) → *Active development*
+- **[`[VIBE]`](#vibe-projects)** → Early experiments (HTML, JS, mini apps) → *Archived for growth tracking*
 
 ## 💡 Learning Philosophy
 > “I don’t learn theory unless I break something first.”  
 Daily 30-min hands-on labs > passive watching.  
 All code documented, all mistakes logged.
 
-📫 Reach me: **ismail.threathunt@gmail.com** (GitHub-verified)
+---
+
+## 🚀 Main Projects
+*Goal-aligned projects under active development*
+
+🔜 Coming soon:
+- `reverse-shell-detector` — Detect Meterpreter traffic via Wireshark rules
+- `leetcode-tracker` — Daily DSA solutions with complexity analysis
+- `edugraph` — Symbolic AI for educational video → concept map conversion
+
+## 🌱 Vibe Projects
+*Early experiments kept for authenticity & growth tracking*
+
+- [`workout-genie`](https://github.com/mhd1smail/workout-genie) — First JS/HTML app (3rd sem)
+- [`MySGPAWebApp`](https://github.com/mhd1smail/MySGPAWebApp) — GPA calculator (1st sem)
+- [`interactive-labs`](https://github.com/mhd1smail/interactive-labs) — DOM manipulation experiments
+
+---
+
+📫 Reach me:  
+**Personal**: ismail.threathunt@gmail.com (GitHub-verified)  
+**Academic**: ma2478@srmist.edu.in (SRM official)
