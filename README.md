@@ -49,16 +49,6 @@ All code documented, all mistakes logged.
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Activity](https://github.com/mhd1smail/mhd1smail/graphs/contributions)
-
-## 🏆 LeetCode Progress
-
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/mhd1smail/)
-
----
-
 📫 Reach me:  
 **Personal**: ismail.threathunt@gmail.com  
 **Academic**: ma2478@srmist.edu.in
