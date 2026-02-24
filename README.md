@@ -2,7 +2,7 @@
 BTech CSE Core @ SRM KTR | 4th Semester  
 Learning **Cybersecurity** + **DSA** from scratch — hands-on only.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhd1smail)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedismaila/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/mhd1smail/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:ismail.threathunt@gmail.com)
 [![SRM Email](https://img.shields.io/badge/SRM_Email-D71921?logo=gmail&logoColor=white)](mailto:ma2478@srmist.edu.in)
