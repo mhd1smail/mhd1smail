@@ -26,7 +26,7 @@ Learning **Cybersecurity** + **DSA** from scratch — hands-on only.
 - **[`[VIBE]`](#vibe-projects)** → Early experiments (HTML, JS, mini apps) → *Archived for growth tracking*
 
 ## 💡 Learning Philosophy
-> “I don’t learn theory unless I break something first.”  
+> "I don't learn theory unless I break something first."  
 Daily 30-min hands-on labs > passive watching.  
 All code documented, all mistakes logged.
 
@@ -50,38 +50,17 @@ All code documented, all mistakes logged.
 ---
 
 ## 📊 GitHub Stats
-
-![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhd1smail&show_icons=true&theme=radical&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=mhd1smail&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhd1smail&layout=compact&theme=radical)
 
-## 🏆 LeetCode Stats
+## 🏆 LeetCode Progress
+![LeetCode](https://leetcard.jacoblin.cool/mhd1smail?theme=dark&font=monospace&ext=activity)
 
-<div align="center">
-  <a href="https://leetcode.com/u/mhd1smail/">
-    <img src="https://leetcard.jacoblin.cool/mhd1smail?theme=dark&font=Arial&ext=activity" alt="LeetCode Stats" />
-  </a>
-</div>
+## 🕹️ Coding Game Mode
+*Stats auto-update daily via GitHub activity*
 
 ---
 
-## 🕹️ Coding Game Mode (Auto-Updates Daily)
-
-<div align="center">
-  
-  <!-- GitHub Streak (like a game score) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhd1smail&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-  <!-- Profile Trophies (game-like rewards) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mhd1smail&theme=radical&no-frame=true&row=1&column=5" alt="Trophies" />
-  
-  <!-- LeetCode Stats -->
-  <a href="https://leetcode.com/u/mhd1smail/">
-    <img src="https://leetcard.jacoblin.cool/mhd1smail?theme=dark&font=Arial&ext=activity" alt="LeetCode Stats" />
-  </a>
-  
-</div>
-
----
 📫 Reach me:  
-**Personal**: ismail.threathunt@gmail.com (GitHub-verified)  
-**Academic**: ma2478@srmist.edu.in (SRM official)
+**Personal**: ismail.threathunt@gmail.com  
+**Academic**: ma2478@srmist.edu.in
