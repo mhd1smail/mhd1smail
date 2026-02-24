@@ -49,15 +49,13 @@ All code documented, all mistakes logged.
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=mhd1smail&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhd1smail&layout=compact&theme=radical)
+## 📊 GitHub Activity
+
+![GitHub Activity](https://github.com/mhd1smail/mhd1smail/graphs/contributions)
 
 ## 🏆 LeetCode Progress
-![LeetCode](https://leetcard.jacoblin.cool/mhd1smail?theme=dark&font=monospace&ext=activity)
 
-## 🕹️ Coding Game Mode
-*Stats auto-update daily via GitHub activity*
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/mhd1smail/)
 
 ---
 
