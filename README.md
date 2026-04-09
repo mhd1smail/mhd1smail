@@ -34,7 +34,7 @@ All code documented, all mistakes logged.
 ## 💼 Internships
 
 ### 🔒 Cybersecurity Intern @ [Supraja Technologies](https://suprajatechnologies.com)
-`Jan 2026` → `Present` | Vijayawada (Remote)  
+`Jan 2026` → `Present` | Chennai (Remote)  
 - Hands-on training in VAPT, network security, and threat detection  
 - Building detection labs using Splunk, Wireshark, and Metasploitable  
 - Toolkit-based practical learning (no cloud dependencies)
