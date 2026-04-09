@@ -31,7 +31,20 @@ Daily 30-min hands-on labs > passive watching.
 All code documented, all mistakes logged.
 
 ---
+## 💼 Internships
 
+### 🔒 Cybersecurity Intern @ [Supraja Technologies](https://suprajatechnologies.com)
+`Jan 2026` → `Present` | Vijayawada (Remote)  
+- Hands-on training in VAPT, network security, and threat detection  
+- Building detection labs using Splunk, Wireshark, and Metasploitable  
+- Toolkit-based practical learning (no cloud dependencies)
+
+### 🤖 AI Intern @ [Shiksha Vertex](https://www.shikshavertex.com)
+`Jan 2026` → `Mar 2026`  
+- Symbolic AI research for educational content structuring  
+- Built **EduGraph**: Video → semantic concept map converter (local-only execution)
+
+---
 ## 🚀 Main Projects
 *Goal-aligned projects under active development*
 
