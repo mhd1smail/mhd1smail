@@ -9,7 +9,7 @@ Learning **Cybersecurity** + **DSA** from scratch — hands-on only.
 
 > 🔒 All projects are for **academic & ethical learning**. No cloud dependencies. Local-only execution.
 
-## 🎯 Current Focus (Feb 2026)
+## 🎯 Current Focus
 - [x] **DSA**: Solving LeetCode Medium (Arrays, Hashing, Two Pointers)
 - [x] **Cyber Labs**: Building detection & exploitation projects (Metasploitable, DVWA, Splunk)
 - [x] **Academic Projects**: Symbolic AI for education (EduGraph), watchdog programs
